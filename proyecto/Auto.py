@@ -1,5 +1,5 @@
 ''' 
- Crado en Marzo del 2026
+ Creado en Marzo del 2026
 @autor: Ricardo-NR
 '''
 
